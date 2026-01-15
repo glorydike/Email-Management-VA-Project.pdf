@@ -27,6 +27,10 @@ Value to Clients
 Use Case
 
 This system is ideal for CEOs, founders, and professionals who receive high volumes of emails and need structured inbox management
+## 📎 Project Files
+
+- [Email Management Project (PDF)](Email-Management-VA-Project.pdf)
+
 
 [Email management VA project.pdf](https://github.com/user-attachments/files/24647215/Email.management.VA.project.pdf)
 
